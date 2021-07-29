@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Brandon Wilson Portfolio
 
 You can use the [editor on GitHub](https://github.com/bwilson718/portfolio_site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
